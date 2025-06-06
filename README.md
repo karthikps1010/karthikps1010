@@ -1,3 +1,4 @@
+![Profile views](https://komarev.com/ghpvc/?username=karthikps1010&style=flat-square)
 
 # 👋 Hello, I’m Karthik  
 ### Full Stack Developer | Flutter | Java | Angular  
