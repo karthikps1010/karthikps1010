@@ -33,7 +33,7 @@
 ### 📊 GitHub Stats
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karthikps&theme=react&hide_border=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karthikps1010&theme=react&hide_border=true)  
 <!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikps&layout=compact&theme=react&hide_border=true) -->
 <p align="center">
   <img
